@@ -14,6 +14,7 @@ class ViewController: UIViewController {
             //viewdidlosd
         // Do any additional setup after loading the view.
    print("Kahan ho Sirji!")
+        print("Hello")
     
     }
 
