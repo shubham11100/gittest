@@ -13,9 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
             //viewdidlosd
         // Do any additional setup after loading the view.
-   print("Kahan ho Sirji!")
-        print("Hello")
-    
+   print("Hello")
+        
         print("ok ")
     }
 
