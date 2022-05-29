@@ -13,6 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
             //viewdidlosd
         // Do any additional setup after loading the view.
+        
+        print("Hello how you doing")
     }
 
 
