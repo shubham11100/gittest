@@ -13,10 +13,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
             //viewdidlosd
         // Do any additional setup after loading the view.
-<<<<<<< HEAD
+//<<<<<<< HEAD
    print("Hello")
         
-=======
+//=======
         
         print("Hello how you doing")
    print("Kahan ho Sirji!")
